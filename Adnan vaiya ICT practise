@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<Title>DEATHLY HALLOWS</Title>
+
+<style type"text/css">
+div{Font-family:cursive;}
+span{Font-family:cursive;}
+</style>
+
+</head>
+
+<body>
+
+<h1>THE MASTER OF DEATH</h1>
+<h2>The Story of Deathly Hallows</h2>
+<h3>There are 3 Deathly Hallows-</h3>
+
+<ul>
+<span style="Background:black;color:white;margin:5px;float:left;text-alignment:center;padding:10px;border:5px;border-radius:5px;text-shadow:black;"><li>The Elder Wand</li></span><br><br><br>
+<span style="Background:black;color:white;margin:5px;float:left;text-alignment:center;padding:10px;border:5px;border-radius:5px;text-shadow:black;"><li>The Resurrection Stone</li></span><br><br><br>
+<span style="Background:black;color:white;margin:5px;float:left;text-alignment:center;padding:10px;border:5px;border-radius:5px;text-shadow:black;"><li>The Cloak of Invisibility</li></span><br><br>
+</ul>
+
+<h3>Short Indriduction of Deathly Hallows:</h3>
+
+<table border="1"cellspacing="1"cellpadding="1">
+<thead>
+<tr>
+<th><div style="Background:Gray;color:Black;">The Name of Hallows</div></th>
+<th><div style="Background:Gray;color:Black;">Other Name</div></th>
+<th><div style="Background:Gray;color:Black;">The State of Hallows</div></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>The Elder Wand</td>
+<td>Death Wand</td>
+<td>Destryed by Harry Potter</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td>The Resurrection Stone</td>
+<td>Death Stone</td>
+<td>Lost in Forbiden Forrest</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td>The Cloak of Invisibility</td>
+<td>Invisible Jacket</td>
+<td>Given to James Potter By Harry Potter</td>
+</tr>
+</tbody>
+
+</table><br>
+
+WANNA KNOW MORE!!!<a href="https://www.youtube.com/watch?v=aJSh1zkPEvc"><span style="Background:orange;color:black;margin:5px;text-alignment:center;padding:10px;border:5px;border-radius:5px;">   CLICK HERE</span></a><br>
+<br><img src="DEATHLY HALLOWS SIGN.png" height="300" Width="300"><br>
+<a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.icanvas.com%2FAKM135%3Fd%3D2%26sh%3Dv%26p%3D1%26bg%3Dg%26t%3D1632144651&imgrefurl=https%3A%2F%2Fwww.icanvas.com%2Fcanvas-print%2Fthe-deathly-hallows-akm135&tbnid=C0Ao0Up_vX7VkM&vet=12ahUKEwj_v9PHppr2AhUkjNgFHelnBxMQMygIegUIARDxAQ..i&docid=ahKbmiiuwKoYjM&w=500&h=750&q=deathly%20hallows&ved=2ahUKEwj_v9PHppr2AhUkjNgFHelnBxMQMygIegUIARDxAQ"><div style="Background:red;color:white;margin:5px;float:left;text-alignment:center;padding:10px;border:5px;border-radius:5px;text-shadow:black;"> MORE DEATHLY HALLOWS SIGN</div></a><br>
+<br></br><a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic0.srcdn.com%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F04%2Fdeathly-hallows-featured.jpg&imgrefurl=https%3A%2F%2Fscreenrant.com%2Fharry-potter-deathly-hallows-tattoos-fans-will-love%2F&tbnid=ph2raDwwDqM-5M&vet=12ahUKEwj_v9PHppr2AhUkjNgFHelnBxMQMygCegUIARDjAQ..i&docid=PV_fefD3HZ0OTM&w=1710&h=900&q=deathly%20hallows&ved=2ahUKEwj_v9PHppr2AhUkjNgFHelnBxMQMygCegUIARDjAQ"><div style="Background:Navy;color:white;margin:5px;float:left;text-alignment:center;padding:10px;border:5px;border-radius:5px;text-shadow:black;">TATTO OF DEATHLY HALLOWS</div></a></br>
+
+</br>
+<h3>Which Hallow is your favourite?</h3>
+<input type ="Checkbox">
+<label>The Elder Wand</label><br>
+<input type ="Checkbox">
+<label>The Resurrection Stone</label><br>
+<input type ="Checkbox">
+<label>The Cloak of Invisibility</label>
+
+<h3>Suppose you get one of the Deathly Hallows.<br>Which will satisfy you?</h3>
+<input type ="Radio" Name="Desired_Hallow">
+<label>The Elder Wand </label><br>
+<input type ="Radio" Name="Desired_Hallow">
+<label>The Resurrection Stone </label><br>
+<input type ="Radio" Name="Desired_Hallow">
+<label>The Cloak of Invisibility </label><br>
+
+<form>
+<label><h3>Why this one you want?</h3></label>
+<input type="text">
+</form>
+
+</body>
+</html>
